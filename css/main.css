@@ -1,0 +1,67 @@
+body {
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.container-padding50 {
+	padding-top: 50px;
+}
+
+.header {
+	float: top;
+}
+
+.container-textinput {
+	width: 80%;
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	border-radius: 10px;
+}
+
+.container-button {
+	width: 15%;
+	display: inline-block;
+	padding: 20px;
+	background-color: blueviolet;
+	color: white;
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+
+	border: 1px blueviolet solid;
+	border-radius: 5px;
+}
+
+.container-image {
+	width: 30%;
+	display: block;
+	float: left;
+	margin-right:3%;
+}
+
+aside.logo {
+	float:None;
+	text-align: center;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+aside.github {
+	display: inline-block;
+	width: 40%;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+aside.pizza {
+	display: inline-block;
+	width: 40%;
+	margin-bottom: 40px;
+	text-align: center;
+}
